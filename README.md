@@ -1,5 +1,5 @@
 # PIC18F57Q43 - UPC Microcontrollers Course
-<img src="18f57q43.png"><br>
+<img src="18f57q43_resized.png"><br>
 Documentation:<br>
 -Product page: https://www.microchip.com/en-us/product/PIC18F57Q43#<br>
 -Datasheet: https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/PIC18F27-47-57Q43-Data-Sheet-40002147F.pdf<br>
